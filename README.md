@@ -2,7 +2,8 @@
 
 This application is a goal setting application using the MERN stack and utilizing Redux for central state management.
 
-![Register Page](images/recording.mp4)
+
+https://user-images.githubusercontent.com/105746050/218227245-07afcbc7-dea1-4d2c-b508-dd4ee66d8adf.mp4
 
 ## Register
 User will have to create an account in order to start creating goals.

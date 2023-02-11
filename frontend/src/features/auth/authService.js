@@ -24,10 +24,10 @@ const login = async (userData) => {
     return response.data
 }
 
-//Logout user
+// Logout user
 const logout = () => {
     localStorage.removeItem('user')
-}
+  }
 
 const authService = {
     register,
